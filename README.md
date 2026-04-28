@@ -1,32 +1,54 @@
-<h2 align="left">
- <abc>
- 
-  <br> I'm Yousef Saeed, Front-End Developer :computer:<br>
-  <br>
-    <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500">
- </abc>
-</h2> 
 
-<h2 align="left">:hammer_and_wrench: Technologies and Tools I use:</h2>
-<p align="left">
-    <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40" height="40"/> </a>
-    <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40" height="40"/> </a>
-    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40"/> </a>
-    <a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40" height="40"/> </a>
-    <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40" height="40"/> </a>
+<h1 align="center">Hi 👋, I'm Yousef Saeed</h1>
+<h3 align="center">Front-End Developer from Egypt 🇪🇬</h3>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="400" />
 </p>
 
-<h2 align="left">👨🏻‍💻 About Me:</h2>
+---
 
-- 💻 I'm a Front-End Developer focused on building modern and responsive websites  
-- 🚀 Currently learning React and improving my JavaScript skills  
-- 🎯 My goal is to become a Full Stack Developer + AI Engineer  
-- 🔥 I love creating clean UI and smooth user experience  
-- 📚 Always learning and improving every day  
-- ⚡ Fun fact: I enjoy coding and turning ideas into real projects  
+## 🚀 About Me
+- 💻 Front-End Developer (HTML, CSS, JavaScript, React)
+- 🎯 Currently improving my skills and building real projects
+- 🤖 Interested in Full Stack & AI in the future
+- 🔥 I love clean UI, animations, and modern designs
+- 📈 Always learning something new every day
 
-<h2 align="left">:heart: Let's get connected:</h2>
+---
 
-[![Linkedin Badge](https://img.shields.io/badge/-YourName-blue?style=flat-square&logo=Linkedin&logoColor=white&link=YOUR_LINKEDIN)](YOUR_LINKEDIN)  
-[![GitHub Badge](https://img.shields.io/badge/-YourGitHub-black?style=flat-square&logo=github&logoColor=white&link=YOUR_GITHUB)](YOUR_GITHUB)  
-[![Portfolio Badge](https://img.shields.io/badge/-Portfolio-purple?style=flat-square&logo=appveyor&logoColor=white&link=YOUR_PORTFOLIO)](YOUR_PORTFOLIO)
+## 🛠️ Tech Stack
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,git,github,vscode" />
+</p>
+
+---
+
+## 📂 Featured Projects
+- 🌐 Portfolio Website (Coming Soon)
+- 🛒 E-commerce UI
+- 📱 Responsive Landing Pages
+
+---
+
+## 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" />
+  <br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight" />
+</p>
+
+---
+
+## 🌐 Connect with me
+<p align="center">
+  <a href="YOUR_LINKEDIN"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin" /></a>
+  <a href="YOUR_GITHUB"><img src="https://img.shields.io/badge/-GitHub-black?style=for-the-badge&logo=github" /></a>
+  <a href="YOUR_PORTFOLIO"><img src="https://img.shields.io/badge/-Portfolio-purple?style=for-the-badge" /></a>
+</p>
+
+---
+
+<p align="center">
+  💡 "Anyone can build a website… but not everyone can make it stand out."
+</p>
